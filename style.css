@@ -1,0 +1,30 @@
+body {
+  background-color: darkgray;
+  background-image: url(images/bgphoto.jpg);
+  font-family: "Playfair Display", serif;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+img {
+  display: block;
+  margin: 0 auto 20px; /*middle*/
+  width: 300px;
+  border-radius: 50%; /*circle*/
+}
+
+h1 {
+  text-align: center;
+  color: darkslateblue;
+}
+
+h2 {
+  margin-top: 30px;
+  color: darkslateblue;
+  border-bottom: 4px solid;
+}
+
+.contact {
+  padding-bottom: 100px;
+}
